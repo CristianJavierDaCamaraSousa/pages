@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cristianjavierdacamarasousa.github.io/pages/sitemap.xml
